@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+.next/
+out/
+dist/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Build/cache
+.cache/
+
+# Project workspaces
+workspaces/
